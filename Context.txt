@@ -1,0 +1,18 @@
+A hotel reservation project is a software application that allows users to search for, compare, and book hotel rooms online. 
+It typically involves a user interface for searching hotels by location, dates of stay, room type, and price range.
+Users can view hotel details such as room amenities, photos, and customer reviews. 
+The system also includes payment processing and booking confirmation functionality.
+
+As part of improving its online service, a guesthouse/hotel contacted you to strengthen its presence in the market. 
+The guesthouse's website allows a customer to book two types of rooms, double or single, as well as apartments and bungalows. 
+The customer is defined by their first name, last name, email, and password. 
+A reservation can contain one or more rooms, bungalows, etc. A property is defined by its name, type, view, etc.
+
+You are tasked with creating a website that includes a homepage representing your products and services,
+an authentication page, and a reservation page that includes an interactive form according 
+to the schema in the link: httpsmiro.comwelcomeonboardl7ZuAyql6grQcvnQV8mTdLSJtUMrOIstcKkuk8Qujwhg4VQkX04EAUHlKmQKVm07.
+
+You are required to create the use case diagram, sequence diagram, and class diagram. 
+The implementation should use MySQL as the database, PHP for the back-end, and object-oriented programming (OOP). 
+Additionally, create a pricing class that groups all tariffs and adhere to the MVC model. 
+The front-end should use Javascript, Bootstrap, SASS, CSS, and HTML."
